@@ -1,2 +1,2 @@
-# SIO
-Git repo for shopitoff
+# shopitoff-mvp
+Git repo for shopitoff-mvp
